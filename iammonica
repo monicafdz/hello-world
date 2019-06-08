@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+
+	<head>
+		<title>Monica Fernandez | User Experience Design</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		
+		<link href="https://fonts.googleapis.com/css?family=PT+Mono" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="assets/styles/design.css">
+	</head>
+
+	<body class="gradient">
+	<!--<body onload="dotime()" style="transition: all 0.8s; background: rgb(25, 81, 38);" -->
+
+		<section class="work outer">
+			<div class="inner">
+				<h1 class="">Jess Brown</h1>
+				
+				<h2 class="">Hi, I'm M, a UX designer, <a href="speaking.html">speaker</a>, based in Los Angeles </h2>
+				<br />
+				
+				<p>I'm fascinated by the co-evolution of culture and technology, and I love leading teams to find simple design solutions to complex problems.</p>
+				
+				<p> I've led the design of five major initiatives, and a fresh CMS.</p>
+				
+				<p>I'm available for <a href="speaking.html">speaking gigs</a>, and often over coffee. I also write on <a href="https://medium.com/@jessbee" target="_blank">Medium</a> and <a href="https://twitter.com/thejessbee" target="_blank">tweet</a>.</p>
+				
+			</div>
+
+		</section>
+
+
+		<footer class="clear">
+			<div class="inner">
+				<div class="social">
+					<a id="email" href="mailto:hello@sicabrown.com" target="_blank"></a>
+					<a id="medium" href="https://medium.com" target="_blank"></a>
+					<a id="twitter" href="https://twitter.com/" target="_blank"></a>
+					<a id="linkedin" href="https://www.linkedin.com/in/" target="_blank"></a>
+				</div>
+			</div>
+		</footer>
+
+		
+		
+	</body>
+
+</html>
